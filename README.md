@@ -1,5 +1,5 @@
 # OpenAI-LangChain-Pandas-Agent-Stock-Price-Relative-Returns-Chat-Bot-
-Python streamlit web app that allows user to choose multiple stocks, metrics. The relative returns of that stock(s) are then returned and visualized. A Langchain OpenaAI pandas agent is then inititated allowing the user to interact with the data intelligently.
+Python streamlit web app that allows user to choose multiple stocks, metrics, and visualizations. The desired are then returned and visualized. A Langchain OpenaAI pandas agent is then inititated allowing the user to interact with the data intelligently.
 
 ## Example Screenshot V2
 #### V2 Additions
