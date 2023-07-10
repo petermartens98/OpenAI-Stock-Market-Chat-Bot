@@ -1,4 +1,4 @@
-# OpenAI-LangChain-Pandas-Agent-Stock-Price-Chat-Bot
+# GPT4 LangChain Pandas Agent Stock Market Chat Bot
 ### Description
 Python Streamlit web app that allows users to choose multiple stocks, metrics, and visualizations. The desired are then returned and visualized. A Langchain OpenaAI pandas agent utilizing GPT-4 and customize stock-market/financial prompts is then initiated allowing the user to interact with the data intelligently.
 
