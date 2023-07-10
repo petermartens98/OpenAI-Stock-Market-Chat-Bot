@@ -1,27 +1,27 @@
 # OpenAI-LangChain-Pandas-Agent-Stock-Price-Chat-Bot
-## Description
+### Description
 Python Streamlit web app that allows users to choose multiple stocks, metrics, and visualizations. The desired are then returned and visualized. A Langchain OpenaAI pandas agent utilizing GPT-4 and customize stock-market/financial prompts is then initiated allowing the user to interact with the data intelligently.
 
-## Available Stocks
+### Available Stocks
 ['AAPL', 'AI', 'AMZN', 'BTC-USD', 'DOW', 'ETH-USD', 'F', 'GOOGL', 'LCID', 'LYFY', 'MSFT', 'NIO', 'NVDA', 'TSL']
 
-## Available Metrics
+### Available Metrics
 1. Adjusted Close
 2. Relative Returns
 
-## Available Visualizations
+### Available Visualizations
 1. Line Chart
 2. Area Chart
 
 ## V3
-#### V3 Improvements
+### V3 Improvements
 1. GPT4 Support
 2. ChatBot Memory of Chat implemented
 3. Improved prompting
 4. More Stock Options included
 
 ## V2
-#### V2 Additions
+### V2 Improvements
 1. Improved organization of modularity of code
 2. Incorporated .env variables for OpenAI API key
 3. Incorporated sidebar
