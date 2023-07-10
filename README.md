@@ -1,7 +1,14 @@
 # OpenAI-LangChain-Pandas-Agent-Stock-Price-Chat-Bot
 Python streamlit web app that allows user to choose multiple stocks, metrics, and visualizations. The desired are then returned and visualized. A Langchain OpenaAI pandas agent is then inititated allowing the user to interact with the data intelligently.
 
-## Example Screenshot V2
+## V3
+#### V3 Improvements
+1. GPT4 Support
+2. ChatBot Memory of Chat implemented
+3. Improved prompting
+4. More Stock Options included
+
+## V2
 #### V2 Additions
 1. Improved organization of modularity of code
 2. Incorporated .env variables for OpenAI API key
