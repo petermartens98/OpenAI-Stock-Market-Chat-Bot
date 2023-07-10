@@ -5,8 +5,13 @@ Python Streamlit web app that allows users to choose multiple stocks, metrics, a
 ## Available Stocks
 ['AAPL', 'AI', 'AMZN', 'BTC-USD', 'DOW', 'ETH-USD', 'F', 'GOOGL', 'LCID', 'LYFY', 'MSFT', 'NIO', 'NVDA', 'TSL']
 
-##
+## Available Metrics
+1. Adjusted Close
+2. Relative Returns
 
+## Available Visualizations
+1. Line Chart
+2. Area Chart
 
 ## V3
 #### V3 Improvements
