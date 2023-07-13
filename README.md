@@ -13,6 +13,13 @@ Python Streamlit web app that allows users to choose multiple stocks, metrics, a
 1. Line Chart
 2. Area Chart
 
+## V4
+### V4 Improvements
+1. Using Sqlite3, implemented user login/authentiation system
+
+### V4 Screenshot
+![image](https://github.com/petermartens98/OpenAI-Stock-Market-Chat-Bot/assets/87671757/0e3316af-a982-4f98-b430-2771a03f5e11)
+
 ## V3
 ### V3 Improvements
 1. GPT4 Support
